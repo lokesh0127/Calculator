@@ -22,6 +22,7 @@ function App() {
   };
   return (
     <>
+      <h1>CALCULATOR</h1>
       <div className="container">
         <form>
           <input type="text" value={result} />
